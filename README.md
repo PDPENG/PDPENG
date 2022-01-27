@@ -1,15 +1,1 @@
-## Hi there, welcome to [Jason!](https://coder-jason.cn) 👋
-
--  🔭 I’m currently working on computer science and technology Learning;
-- 🌱 I’m currently learning engineering algebra and operating systems;
-- 👯 I’m looking to collaborate on the whole development of the stack;
-- 😄 Pronouns: [CS](https://github.com/CyC2018/CS-Notes), computer science and technology (CST);
-- 💬 Ask me about anything [here](https://github.com/PDPENG/PDPENG/issues).
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=PDPENG&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact" alt="Jason's github stats" />
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PDPENG&theme=prussian&layout=compact" />
-</a>
--->
+![Metrics](https://metrics.lecoq.io/PDPENG?template=classic&base.metadata=0&isocalendar=1&languages=1&followup=1&achievements=1&discussions=1&gists=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&config.timezone=Asia%2FShanghai)
