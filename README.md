@@ -13,7 +13,7 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/978679108722651147)](https://dev.discordprofiles.me/openspotify/978679108722651147)
 
 <details>
-  <summary>Github Status ⚡</summary>
+  <summary>Github Stats ⚡</summary>
     <a href="https://pdpeng.github.io">
         <img src="https://metrics.lecoq.io/PDPENG?template=classic&base.metadata=0&isocalendar=1&languages=1&followup=1&achievements=1&discussions=1&gists=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&config.timezone=Asia%2FShanghai">
     </a>
