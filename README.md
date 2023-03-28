@@ -20,5 +20,10 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [公众号接入 chatGPT 教程（附源码）](https://pdpeng.github.io/2023/02/16/chatgpt-for-wechat/)
+- [恭喜，成功入坑 GitHub 。。。](https://pdpeng.github.io/2022/07/08/github-connection-refuse/)
+- [什么？你居然不会微信分身](https://pdpeng.github.io/2022/06/20/wechat-rolled/)
+- [Hexo 优化配置汇总【GitHub Actions 看板娘 数学公式 标签云 README 转义问题】](https://pdpeng.github.io/2022/05/16/hexo-github-actions/)
+- [我的一周年创作纪念日](https://pdpeng.github.io/2022/05/08/anniversary-creation01/)
 <!-- BLOG-POST-LIST:END -->
 </details>
