@@ -16,6 +16,7 @@
   <summary>Github Stats ⚡</summary>
 
 ## 📕 最新发布博客
+
 <!-- BLOG-POST-LIST:START -->
 - [公众号接入 chatGPT 教程（附源码）](https://pdpeng.github.io/2023/02/16/chatgpt-for-wechat/)
 - [恭喜，成功入坑 GitHub 。。。](https://pdpeng.github.io/2022/07/08/github-connection-refuse/)
@@ -26,8 +27,8 @@
 
 ## 🔥 编程学习公众号【攻城狮杰森】
 
-<a href="https://mp.weixin.qq.com/s?__biz=Mzk0NTI3Mzg2MQ==&mid=2247484866&idx=1&sn=2a914594e30f9554a7ac4dcc67f32338&chksm=c316a8a8f46121be481525c1edf7ee0947ae02dbf0c04f83194983f29d77429bc9942f14831d#rd">
-  <img src="https://github.com/PDPENG/PDPENG/assets/86602255/f281d107-4624-412d-8fb0-14aac80b5710" width="30%" alt="公众号【攻城狮杰森】">
+<a href="https://mp.weixin.qq.com/s/xFjHRGgvl2RBOWZ4DTxCrQ">
+  <img src="https://github.com/PDPENG/PDPENG/assets/86602255/f281d107-4624-412d-8fb0-14aac80b5710" width="30%" alt="公众号【攻城狮杰森】" />
 </a>
 
 ## 🎯 代码仓库
