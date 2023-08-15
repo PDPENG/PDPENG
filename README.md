@@ -14,11 +14,8 @@
 
 <details>
   <summary>Github Stats ⚡</summary>
-    <a href="https://pdpeng.github.io">
-        <img src="https://metrics.lecoq.io/PDPENG?template=classic&base.metadata=0&isocalendar=1&languages=1&followup=1&achievements=1&discussions=1&gists=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&config.timezone=Asia%2FShanghai" alt="Jason">
-    </a>
 
-## 📕 Latest Blog Posts
+## 📕 最新发布博客
 <!-- BLOG-POST-LIST:START -->
 - [公众号接入 chatGPT 教程（附源码）](https://pdpeng.github.io/2023/02/16/chatgpt-for-wechat/)
 - [恭喜，成功入坑 GitHub 。。。](https://pdpeng.github.io/2022/07/08/github-connection-refuse/)
@@ -26,4 +23,17 @@
 - [Hexo 优化配置汇总【GitHub Actions 看板娘 数学公式 标签云 README 转义问题】](https://pdpeng.github.io/2022/05/16/hexo-github-actions/)
 - [我的一周年创作纪念日](https://pdpeng.github.io/2022/05/08/anniversary-creation01/)
 <!-- BLOG-POST-LIST:END -->
+
+## 🔥 编程学习公众号【攻城狮杰森】
+
+<a href="https://mp.weixin.qq.com/s?__biz=Mzk0NTI3Mzg2MQ==&mid=2247484866&idx=1&sn=2a914594e30f9554a7ac4dcc67f32338&chksm=c316a8a8f46121be481525c1edf7ee0947ae02dbf0c04f83194983f29d77429bc9942f14831d#rd">
+  <img src="https://github.com/PDPENG/PDPENG/assets/86602255/f281d107-4624-412d-8fb0-14aac80b5710" width="30%" alt="公众号【攻城狮杰森】">
+</a>
+
+## 🎯 代码仓库
+
+ <a href="https://pdpeng.github.io">
+        <img src="https://metrics.lecoq.io/PDPENG?template=classic&base.metadata=0&isocalendar=1&languages=1&followup=1&achievements=1&discussions=1&gists=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&config.timezone=Asia%2FShanghai" alt="Jason">
+    </a>
+
 </details>
