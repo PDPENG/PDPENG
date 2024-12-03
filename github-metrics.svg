@@ -370,7 +370,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="249.89188266940818" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="249.89188266940818" y="0" width="156.19214229878992" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="406.0840249681981" y="0" width="17.595663996884834" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="423.67968896508296" y="0" width="11.220957615966613" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="423.67968896508296" y="0" width="11.220957615966613" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="434.90064658104956" y="0" width="8.664125142444249" height="8" fill="#ff6347"/>
                     <rect mask="url(#languages-bar)" x="443.5647717234938" y="0" width="7.857680425111443" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="451.4224521486052" y="0" width="5.980113727481141" height="8" fill="#427819"/>
@@ -397,7 +397,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -1990,7 +1990,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.95m out of 218m repositories</span>
+                                    <span class="gh">ranked 1.95m out of 206m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -2067,7 +2067,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.97m out of 218m repositories</span>
+                                    <span class="gh">ranked 1.97m out of 206m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
