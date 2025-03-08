@@ -1,5 +1,5 @@
 # Hey There! 👋
-**I'm Jason** - I am a full stack developer, designer, [blogger](https://pdpeng.github.io), and a graduate student from mainland China.  I like [writing](https://pdpeng.github.io) and am interested in software development and website construction.  In my spare time, I will get in touch with cutting-edge technology and put it into practice. I will release some [Demo](https://github.com/PDPENG?tab=repositories) in Github!
+**I'm Jason** - I am a full stack developer, designer, [blogger](https://pdpeng.github.io), and a graduate student from mainland China.  I enjoy [writing](https://pdpeng.github.io) and am interested in software development and website construction.  In my spare time, I will get in touch with cutting-edge technology and put it into practice. I will release some [Demo](https://github.com/PDPENG?tab=repositories) in Github!
 
 <a href="https://pdpeng.github.io">
   <img src="https://skillicons.dev/icons?i=html,js,css,py,linux,nodejs,idea,ps,nginx,vue,docker,mysql,stackoverflow,gitlab,codepen" />
